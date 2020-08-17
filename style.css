@@ -39,7 +39,7 @@ body{
     border-top-left-radius: 25px;
     border-top-right-radius: 10gitpx;
     border-bottom:3px solid ;
-    border-image:linear-gradient(90deg,red,rgb(204, 204, 12)) ;
+    border-image:linear-gradient(90deg,red,rgb(9, 224, 63)) ;
     border-image-slice:30%;
     
 }
